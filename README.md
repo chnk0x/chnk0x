@@ -1,71 +1,231 @@
-# 👋 Hi, I'm Chanuka Nuwan
+<div align="center">
 
-### 🛡️ Cybersecurity Student | Developer | Security Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=CHANUKA%20NUWAN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Developer%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=18"/>
 
-I'm a Cybersecurity undergraduate at SLIIT** from Sri Lanka.
+<a href="https://github.com/chnk0x">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student+%40+SLIIT;Ethical+Hacking+%7C+Web+Security;DevSecOps+%7C+Linux+%7C+Python;Building+%7C+Breaking+%7C+Securing;Welcome+to+my+digital+lab+%F0%9F%94%90" alt="Typing SVG"/>
+</a>
 
-I’m interested in **Cybersecurity, Ethical Hacking, Web Security, DevSecOps, Linux, and Software Development**.
+<br>
 
----
+<img src="https://komarev.com/ghpvc/?username=chnk0x&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
 
-## 🧑‍💻 About Me
-
-- 🎓 Cybersecurity Undergraduate at **SLIIT**
-- 🔐 Interested in Ethical Hacking & Cybersecurity
-- 🐧 Working with Linux & Kali Linux
-- 🌐 Learning Web Application Security
-- ⚙️ Exploring DevSecOps & Secure Software Development
-- 💻 Building cybersecurity and software projects
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## `> whoami`
+
+```bash
+$ whoami
+
+chanuka@cyberlab:~$ ./about-me
+
+[+] Cybersecurity Undergraduate
+[+] SLIIT | Sri Lanka
+[+] Web Security Enthusiast
+[+] Ethical Hacking Learner
+[+] Developer
+[+] DevSecOps Explorer
+
+status: ONLINE
+```
+
+I'm a **3rd Year Cybersecurity undergraduate at SLIIT** interested in building secure systems and understanding how applications can be attacked, defended and improved.
+
+---
+
+## `> current_focus`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 Cybersecurity
+
+* Web Application Security
+* Penetration Testing
+* Ethical Hacking
+* Network Security
+* OWASP
+* Security Automation
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Development
+
+* Python
+* Java
+* JavaScript
+* Flask
+* REST APIs
+* Docker
+* Linux
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> tech_stack`
+
+<div align="center">
 
 ### Languages
-`Python` `Java` `JavaScript` `C` `SQL`
 
-### Cybersecurity
-`Burp Suite` `Nmap` `Kali Linux` `OWASP` `Web Security`
+<img src="https://skillicons.dev/icons?i=python,java,js,c,html,css,mysql,bash"/>
 
-### Development
-`HTML` `CSS` `JavaScript` `Flask` `REST APIs`
+### Security & Infrastructure
 
-### Tools
-`Git` `GitHub` `Docker` `Linux` `VS Code`
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,kali"/>
+
+</div>
 
 ---
 
-## 🚀 Projects
+## `> security_toolkit`
 
-🔹 **Cybersecurity Projects**  
-Security tools, scanners, automation and penetration testing projects.
+<div align="center">
 
-🔹 **Web Applications**  
-Full stack applications and backend systems.
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-2C5AA0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
-🔹 **DevSecOps Projects**  
-CI/CD security, SAST, dependency scanning and secure development workflows.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chnk0x&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chnk0x&layout=compact&theme=tokyonight)
+</div>
 
 ---
 
-## 🔥 Contribution Streak
+## `> featured_projects`
 
-![GitHub Streak](https://streak-stats.demolab.com?user=chnk0x&theme=tokyonight)
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ Security Tools
+
+Security focused tools for reconnaissance, scanning and security automation.
+
+</td>
+
+<td width="50%">
+
+### 🌐 Web Security
+
+Web applications focused on authentication, APIs and secure development.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚙️ DevSecOps
+
+Security integrated into development and CI/CD workflows.
+
+</td>
+
+<td width="50%">
+
+### 🐍 Python Projects
+
+Automation, security utilities and backend applications.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Connect With Me
+## `> github_activity`
 
-[![GitHub](https://img.shields.io/badge/GitHub-chnk0x-181717?style=for-the-badge&logo=github)](https://github.com/chnk0x)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chnk0x&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chnk0x&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=chnk0x&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-### 🛡️ "Learn. Build. Secure."
+## `> contribution_matrix`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chnk0x&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## `> contribution_snake`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/chnk0x/chnk0x/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## `> learning`
+
+```text
+┌──────────────────────────────────────────────┐
+│              CURRENTLY LEARNING               │
+├──────────────────────────────────────────────┤
+│                                              │
+│  [██████████████████░░] Web Security         │
+│  [████████████████░░░░] Penetration Testing  │
+│  [███████████████░░░░░] DevSecOps            │
+│  [██████████████░░░░░░] Cloud Security       │
+│  [████████████░░░░░░░░] Security Automation  │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+## `> terminal`
+
+```text
+chanuka@cyberlab:~$ neofetch
+
+OS            → Linux
+Role          → Cybersecurity Student
+University    → SLIIT
+Focus         → Cybersecurity
+Languages     → Python / Java / JavaScript / C
+Environment   → Linux / Docker
+Security      → Burp Suite / Nmap / OWASP
+Status        → Learning & Building
+
+chanuka@cyberlab:~$ _
+```
+
+---
+
+## `> connect`
+
+<div align="center">
+
+<a href="https://github.com/chnk0x">
+<img src="https://img.shields.io/badge/GitHub-chnk0x-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer"/>
+
+</div>
