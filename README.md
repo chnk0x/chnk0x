@@ -1,114 +1,208 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0f172a,50:0369a1,75:0891b2,100:22d3ee&height=250&section=header&text=CHANUKA%20NUWAN&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CYBERSECURITY%20%7C%20DEVELOPMENT%20%7C%20DEVSECOPS&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=CHANUKA%20NUWAN&fontSize=65&fontAlignY=38&desc=CYBERSECURITY%20%2F%2F%20DEVSECOPS%20%2F%2F%20SOFTWARE&descAlignY=58&animation=fadeIn&color=0:020617,25:0f172a,50:172554,75:0369a1,100:06b6d4&fontColor=ffffff"/>
+
+<a href="https://github.com/chnk0x">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=%5BSYSTEM+ONLINE%5D;%5BACCESS+GRANTED%5D;%5BCYBERSECURITY+UNDERGRADUATE+%40+SLIIT%5D;%5BWEB+SECURITY+%7C+PENTESTING+%7C+DEVSECOPS%5D;%5BBUILDING+SECURE+SYSTEMS%5D;%5BENTERING+THE+CYBER+LAB...%5D"/>
+
+</a>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=%3E+INITIALIZING+CYBER+LAB...;%3E+ACCESS+GRANTED+%E2%9C%93;%3E+CYBERSECURITY+STUDENT+%40+SLIIT;%3E+WEB+SECURITY+%7C+ETHICAL+HACKING;%3E+DEVSECOPS+%7C+LINUX+%7C+PYTHON;%3E+BUILDING.+BREAKING.+SECURING." />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=chnk0x&label=VISITORS&color=00d9ff&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/chnk0x?label=FOLLOWERS&style=for-the-badge&color=0891b2"/>
-
-<img src="https://img.shields.io/github/stars/chnk0x?label=STARS&style=for-the-badge&color=0ea5e9"/>
+<img src="https://komarev.com/ghpvc/?username=chnk0x&style=for-the-badge&color=00e5ff&label=SYSTEM+VISITS"/>
 
 </div>
 
 ---
 
-# `01 // SYSTEM PROFILE`
+<div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                  CYBER LAB TERMINAL                   ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  USER       : CHANUKA NUWAN                          ║
-║  ROLE       : CYBERSECURITY STUDENT                  ║
-║  UNIVERSITY : SLIIT                                  ║
-║  LOCATION   : SRI LANKA                              ║
-║                                                      ║
-║  STATUS     : ONLINE                                 ║
-║  MODE       : LEARNING                               ║
-║  MISSION    : BUILD • BREAK • SECURE                 ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                    ◈ CYBER LAB // 001 ◈                    ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  OPERATOR        CHANUKA NUWAN                               ║
+║  CLEARANCE       CYBERSECURITY                               ║
+║  UNIVERSITY      SLIIT                                      ║
+║  REGION          SRI LANKA                                  ║
+║  STATUS          ● ONLINE                                   ║
+║                                                              ║
+║  OBJECTIVE       BUILD • BREAK • SECURE                     ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-> Cybersecurity undergraduate focused on understanding how systems work, how they break and how to secure them.
+</div>
+
+# `// 01  OPERATOR PROFILE`
+
+<table>
+<tr>
+<td width="55%">
+
+## `IDENTITY`
+
+I'm a **3rd Year Cybersecurity undergraduate at SLIIT**.
+
+My main interests are
+
+```text
+▸ Cybersecurity
+▸ Ethical Hacking
+▸ Web Application Security
+▸ Penetration Testing
+▸ DevSecOps
+▸ Security Automation
+▸ Linux
+▸ Software Development
+```
+
+</td>
+
+<td width="45%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chnk0x&show_icons=true&hide_border=true&theme=transparent&title_color=00e5ff&text_color=94a3b8&icon_color=22d3ee"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# `02 // CURRENT OPERATIONS`
+# `// 02  SYSTEM ARCHITECTURE`
 
 <div align="center">
 
-|     🔐 SECURITY     | ⚙️ DEVELOPMENT | ☁️ INFRASTRUCTURE |
-| :-----------------: | :------------: | :---------------: |
-|     Web Security    |     Python     |       Linux       |
-| Penetration Testing |      Java      |       Docker      |
-|   Ethical Hacking   |   JavaScript   |        Git        |
-|        OWASP        |      Flask     |       GitHub      |
-|   Network Security  |    REST APIs   |       CI/CD       |
-| Security Automation |       SQL      |     DevSecOps     |
+```text
+                         ┌───────────────┐
+                         │   CYBER LAB   │
+                         └───────┬───────┘
+                                 │
+              ┌──────────────────┼──────────────────┐
+              │                  │                  │
+              ▼                  ▼                  ▼
+        ┌──────────┐       ┌──────────┐       ┌──────────┐
+        │ OFFENSE  │       │ DEFENSE  │       │  BUILD   │
+        └────┬─────┘       └────┬─────┘       └────┬─────┘
+             │                  │                  │
+             ▼                  ▼                  ▼
+          Pentest            OWASP              Python
+          Nmap               Security            Java
+          Burp               Monitoring          JS
+          Recon              Hardening           Flask
+             │                  │                  │
+             └──────────────────┼──────────────────┘
+                                │
+                                ▼
+                       ┌─────────────────┐
+                       │  DEVSECOPS      │
+                       │  SECURE CI/CD   │
+                       └─────────────────┘
+```
 
 </div>
 
 ---
 
-# `03 // TECHNOLOGY MATRIX`
+# `// 03  TECHNOLOGY GRID`
 
 <div align="center">
 
-### PROGRAMMING
+### `PROGRAMMING`
 
 <img src="https://skillicons.dev/icons?i=python,java,js,c,bash,html,css,mysql&perline=8"/>
 
 <br><br>
 
-### SECURITY
+### `INFRASTRUCTURE`
 
-<img src="https://skillicons.dev/icons?i=kali,linux,docker,git,github&perline=8"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,kali&perline=8"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-0B5CAD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+### `SECURITY OPERATIONS`
+
+<img src="https://img.shields.io/badge/BURP%20SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/NMAP-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP-111827?style=for-the-badge&logo=owasp&logoColor=white"/>
 
 </div>
 
 ---
 
-# `04 // SECURITY TOOLKIT`
+# `// 04  ACTIVE MISSIONS`
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🔐
+
+### WEB SECURITY
 
 ```text
-                    ┌──────────────────────┐
-                    │      CYBER LAB       │
-                    └──────────┬───────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             │                 │                 │
-             ▼                 ▼                 ▼
-       RECONNAISSANCE      WEB SECURITY      AUTOMATION
-             │                 │                 │
-          Nmap             Burp Suite          Python
-          Linux              OWASP             Bash
-          Networking         APIs              Scripts
-             │                 │                 │
-             └─────────────────┼─────────────────┘
-                               │
-                               ▼
-                       SECURE DEVELOPMENT
-                               │
-                        DevSecOps / CI/CD
+RECON
+  ↓
+ENUMERATION
+  ↓
+TESTING
+  ↓
+ANALYSIS
+  ↓
+HARDENING
 ```
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚙️
+
+### DEVSECOPS
+
+```text
+CODE
+  ↓
+SCAN
+  ↓
+TEST
+  ↓
+BUILD
+  ↓
+DEPLOY
+```
+
+</td>
+
+<td width="33%" align="center">
+
+### 🐍
+
+### AUTOMATION
+
+```text
+DISCOVER
+  ↓
+SCRIPT
+  ↓
+AUTOMATE
+  ↓
+ANALYZE
+  ↓
+IMPROVE
+```
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# `05 // PROJECT LAB`
+# `// 05  PROJECT DATABASE`
 
 <div align="center">
 
@@ -120,47 +214,47 @@
 
 </div>
 
-### 🔬 Security Research
+### `SECURITY LAB`
 
-Security tools and experiments focused on reconnaissance, vulnerabilities and automation.
+Building security focused tools for reconnaissance, vulnerability testing and automation.
 
-### 🌐 Web Applications
+### `WEB LAB`
 
-Backend systems, authentication, APIs and secure application development.
+Developing applications involving authentication, APIs and secure backend architecture.
 
-### ⚙️ DevSecOps
+### `DEVSECOPS LAB`
 
-Integrating security into development pipelines through automated security testing.
+Working with security testing integrated into development and CI/CD workflows.
 
 ---
 
-# `06 // GITHUB COMMAND CENTER`
+# `// 06  LIVE TELEMETRY`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chnk0x&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chnk0x&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chnk0x&layout=compact&langs_count=10&hide_border=true&theme=tokyonight"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=chnk0x&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=chnk0x&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# `07 // ACTIVITY MONITOR`
+# `// 07  ACTIVITY RADAR`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chnk0x&bg_color=0d1117&color=00e5ff&line=0891b2&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chnk0x&bg_color=020617&color=22d3ee&line=06b6d4&point=ffffff&area_color=0e7490&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# `08 // CONTRIBUTION MATRIX`
+# `// 08  CONTRIBUTION MATRIX`
 
 <div align="center">
 
@@ -170,91 +264,111 @@ Integrating security into development pipelines through automated security testi
 
 ---
 
-# `09 // LEARNING PROTOCOL`
-
-```text
-┌────────────────────────────────────────────────────┐
-│                 ACTIVE LEARNING                    │
-├────────────────────────────────────────────────────┤
-│                                                    │
-│  WEB SECURITY          ████████████████░░░░  80%  │
-│  ETHICAL HACKING       ██████████████░░░░░░  70%  │
-│  DEVSECOPS             █████████████░░░░░░░  65%  │
-│  NETWORK SECURITY      █████████████░░░░░░░  65%  │
-│  SECURITY AUTOMATION   ████████████░░░░░░░░  60%  │
-│  CLOUD SECURITY        ████████░░░░░░░░░░░░  40%  │
-│                                                    │
-└────────────────────────────────────────────────────┘
-```
-
----
-
-# `10 // TERMINAL`
-
-```bash
-┌──(chanuka㉿cyberlab)-[~]
-└─$ ./start_career.sh
-
-[+] Loading Cybersecurity
-[+] Loading Linux
-[+] Loading Python
-[+] Loading Web Security
-[+] Loading DevSecOps
-[+] Loading Penetration Testing
-
-████████████████████████████████ 100%
-
-[✓] SYSTEM READY
-
-chanuka@cyberlab:~$ _
-```
-
----
-
-# `11 // SECURITY MINDSET`
+# `// 09  TRAINING PROTOCOL`
 
 <div align="center">
 
 ```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│        UNDERSTAND THE SYSTEM                 │
-│                 ↓                            │
-│        FIND THE WEAKNESS                     │
-│                 ↓                            │
-│        EXPLOIT THE KNOWLEDGE                 │
-│                 ↓                            │
-│        BUILD THE DEFENSE                     │
-│                 ↓                            │
-│        SECURE THE SYSTEM                     │
-│                                              │
-╰──────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────╮
+│                    TRAINING MATRIX                          │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  WEB SECURITY          █████████████████░░░   ACTIVE        │
+│  PENTESTING            ███████████████░░░░░   ACTIVE        │
+│  DEVSECOPS             ██████████████░░░░░░   ACTIVE        │
+│  NETWORK SECURITY      ██████████████░░░░░░   ACTIVE        │
+│  AUTOMATION            █████████████░░░░░░░   ACTIVE        │
+│  CLOUD SECURITY        ████████░░░░░░░░░░░░   RESEARCH      │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 ```
 
 </div>
 
 ---
 
-# `12 // CONNECT`
+# `// 10  TERMINAL`
+
+```text
+┌──(chanuka㉿cyberlab)-[~/projects]
+└─$ sudo ./initialize.sh
+
+[+] Loading security modules............. OK
+[+] Loading development environment..... OK
+[+] Loading Linux environment........... OK
+[+] Loading DevSecOps pipeline.......... OK
+[+] Loading offensive toolkit........... OK
+
+[████████████████████████████████████████] 100%
+
+┌──────────────────────────────────────┐
+│          SYSTEM INITIALIZED           │
+│                                      │
+│  USER     : CHANUKA                  │
+│  ACCESS   : GRANTED                  │
+│  STATUS   : ONLINE                   │
+│  MISSION  : BUILD / BREAK / SECURE   │
+└──────────────────────────────────────┘
+
+chanuka@cyberlab:~$ _
+```
+
+---
+
+# `// 11  SECURITY PHILOSOPHY`
+
+<div align="center">
+
+```text
+              ┌──────────────────┐
+              │   UNDERSTAND     │
+              └────────┬─────────┘
+                       ↓
+              ┌──────────────────┐
+              │     DISCOVER     │
+              └────────┬─────────┘
+                       ↓
+              ┌──────────────────┐
+              │      TEST        │
+              └────────┬─────────┘
+                       ↓
+              ┌──────────────────┐
+              │      SECURE      │
+              └────────┬─────────┘
+                       ↓
+              ┌──────────────────┐
+              │      REPEAT      │
+              └──────────────────┘
+```
+
+</div>
+
+---
+
+# `// 12  TRANSMISSION`
 
 <div align="center">
 
 <a href="https://github.com/chnk0x">
 
-<img src="https://img.shields.io/badge/GITHUB-chnk0x-0d1117?style=for-the-badge&logo=github&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/GITHUB-CHNK0X-020617?style=for-the-badge&logo=github&logoColor=22d3ee"/>
 
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+```text
+╔════════════════════════════════════════════════════╗
+║                                                    ║
+║              CONNECTION ESTABLISHED               ║
+║                                                    ║
+║       THANKS FOR ENTERING THE CYBER LAB            ║
+║                                                    ║
+║                 [ SESSION END ]                    ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+```
 
-### `> ACCESS TERMINATED`
-
-`Thanks for visiting my cyber lab`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0891b2,100:020617&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:020617,30:0f172a,60:0369a1,100:22d3ee"/>
 
 </div>
