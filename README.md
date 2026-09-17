@@ -2,7 +2,7 @@
 
 ### 🛡️ Cybersecurity Student | Developer | Security Enthusiast
 
-I'm a **3rd Year Cybersecurity undergraduate at SLIIT** from Sri Lanka.
+I'm a Cybersecurity undergraduate at SLIIT** from Sri Lanka.
 
 I’m interested in **Cybersecurity, Ethical Hacking, Web Security, DevSecOps, Linux, and Software Development**.
 
